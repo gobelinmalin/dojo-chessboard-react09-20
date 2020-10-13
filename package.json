@@ -18,5 +18,9 @@
   "homepage": "https://github.com/WildCodeSchool/dojo-js-chessboard#readme",
   "devDependencies": {
     "jest": "^24.9.0"
+  },
+  "dependencies": {
+    "assert": "^2.0.0",
+    "expect": "^26.5.3"
   }
 }
